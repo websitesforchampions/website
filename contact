@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact - My Website</title>
+  <title>Contact - Websites for Champions</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -13,7 +13,7 @@
     }
 
     header {
-      background-color: #333;
+      background-color: #000080;
       padding: 10px 20px;
       display: flex;
       align-items: center;
@@ -25,7 +25,7 @@
     }
 
     nav {
-      background-color: #222;
+      background-color: #000080;
       padding: 10px;
       text-align: center;
     }
@@ -37,7 +37,7 @@
       font-weight: bold;
       padding: 10px 20px;
       border-radius: 5px;
-      background-color: #555;
+      background-color: #FFA500;
       transition: background-color 0.3s ease;
     }
 
@@ -80,7 +80,7 @@
     }
 
     footer {
-      background-color: #333;
+      background-color: #000080;
       color: white;
       text-align: center;
       padding: 10px;
@@ -106,8 +106,8 @@
   <main>
     <h1>Contact Us</h1>
     <p>Here is how you can get in touch with us:</p>
-    <p>Email: contact@mywebsite.com</p>
-    <p>Phone: (123) 456-7890</p>
+    <p>Email: websitesforchampions@gmail.com</p>
+
 
     <!-- FAQ Section -->
     <div class="faq">
@@ -115,23 +115,23 @@
 
       <div class="faq-item">
         <h3>What payment methods do you accept?</h3>
-        <p>We accept PayPal, Stripe, Square, and Zelle through our Payments page.</p>
+        <p>We accept cash only through contacting our email.</p>
       </div>
 
       <div class="faq-item">
-        <h3>How can I track my order?</h3>
-        <p>Please contact us directly with your order number for tracking assistance.</p>
+        <h3>How can I place orders?</h3>
+        <p>Please contact us directly with your requirements to get a quote.</p>
       </div>
 
       <div class="faq-item">
-        <h3>Do you offer refunds or returns?</h3>
-        <p>Yes, within 14 days of purchase. For details, check our Terms document linked on the homepage footer.</p>
+        <h3>Do you offer custom projects?</h3>
+        <p>Yes, we offer custom-made websites, although they are more expensive than our standard product options.</p>
       </div>
     </div>
   </main>
 
   <footer>
-    <p>&copy; 2025 My Website | All Rights Reserved</p>
+    <p>&copy; 2025 Websites for Champions | All Rights Reserved</p>
   </footer>
 
 </body>
