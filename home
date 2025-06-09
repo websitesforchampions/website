@@ -81,7 +81,7 @@
     <a href="index.html">Home</a> <!-- Link to Home page -->
     <a href="about.html">About</a> <!-- Link to About page -->
     <a href="contact.html">Contact</a> <!-- Link to Contact page -->
-    <a href="payments.html">Payments</a> <!-- Link to Payments page -->
+    <a href="gallery.html">Gallery</a> <!-- Link to Gallery page -->
   </nav>
 
   <!-- Main content of the Home page -->
